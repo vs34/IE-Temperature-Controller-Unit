@@ -1,0 +1,44 @@
+Circuit: * Z:\home\vs\Downloads\tempsens\tempsens.asc
+
+WARNING: Less than two connections to node NC_01.  This node is used by R4.
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- MOSFET Transistors ---
+Name:          m1
+Model:        pmos
+Id:         -2.50e-15
+Vgs:        -3.00e+00
+Vds:        -2.67e-11
+Vbs:         0.00e+00
+Vth:        -9.91e-02
+Vdsat:      -2.90e+00
+Gm:          8.61e-16
+Gds:         9.36e-05
+Gmb:         0.00e+00
+Cbd:         0.00e+00
+Cbs:         0.00e+00
+Cgsov:       0.00e+00
+Cgdov:       0.00e+00
+Cgbov:       0.00e+00
+Cgs:         0.00e+00
+Cgd:         0.00e+00
+Cgb:         0.00e+00
+
+
+
+Date: Fri Apr 12 14:56:49 2024
+Total elapsed time: 1.217 seconds.
+
+tnom = 27
+temp = 150
+method = trap
+totiter = 24
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 9
+fillins = 0
+solver = Normal
+Matrix Compiler1: 278 bytes object code size
+Matrix Compiler2: 593 bytes object code size
